@@ -37,8 +37,8 @@ Box Office Mojo and TMDB sources.
 
 ## 🚀 Quickstart
 ```bash
-git clone https://github.com/leokariuki/myproject1.git
-cd myproject1
+git clone https://github.com/leokariuki/imdb-movie-analysis.git
+cd imdb-movie-analysis
 pip install -r requirements.txt   # add this file: pandas, matplotlib, seaborn, jupyter
 jupyter lab student.ipynb
 ```
